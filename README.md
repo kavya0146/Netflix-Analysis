@@ -52,10 +52,15 @@ ORDER BY rating_count DESC
 LIMIT 1;
 
 SELECT rating, COUNT(*) AS rating_count
+
  FROM netflix_titles
+ 
  WHERE type = 'TV Show'
+ 
  GROUP BY rating
+ 
  ORDER BY rating_count DESC
+ 
  LIMIT 1;
 
 3. **Top 5 Countries by Content**  
