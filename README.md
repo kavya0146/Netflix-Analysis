@@ -40,7 +40,7 @@ The dataset used for this project was sourced from Kaggle comprising details abo
 
  🔧 **SQL Queries Highlights**  
 
- 1. **Count Movies vs. TV Shows** 
+1. **Count Movies vs. TV Shows** 
 SELECT type, COUNT(*) as total FROM netflix_titles GROUP BY type;  
 
 2. **Most Common Ratings**   
