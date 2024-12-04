@@ -12,7 +12,7 @@ the potential of data-driven approaches in optimizing content libraries and unde
 - Highlight contributions of top directors and cross-genre creators.  
 
 📂 **About the Dataset**  
-The dataset used for this project was sourced from [Kaggle](https://www.kaggle.com/), comprising details about Netflix's titles, including:  
+The dataset used for this project was sourced from Kaggle comprising details about Netflix's titles, including:  
 - **Attributes**: Title, Type, Director, Cast, Country, Release Year, Rating, Duration, Genre, Description, and more.  
 - **Coverage**: Over 8000 movies and TV shows available on Netflix as of mid-2021.  
 
